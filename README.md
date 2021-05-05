@@ -1,2 +1,2 @@
-# D3-Challenge
-Interactive dashboards with D3
+# D3 Challenge
+## Interactive dashboards with D3
